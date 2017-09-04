@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="20170903LXJ_StaticWeb:war exploded">
+    <output-path>$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/out/artifacts/20170903LXJ_StaticWeb_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="20170903LXJ_StaticWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="20170903LXJ_StaticWeb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

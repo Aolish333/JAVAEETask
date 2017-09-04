@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_SmallDarkRoom.iml" filepath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_SmallDarkRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" filepath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" />
+    </modules>
+  </component>
+</project>
