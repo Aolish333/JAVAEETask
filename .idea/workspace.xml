@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/artifacts/20170905LXJ_BookWarehouse_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/artifacts/20170907LXJ_SecurityCode_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/web/Login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/web/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/modules.xml" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_SmallDarkRoom.iml" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/JAVAEETask.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -642,12 +632,20 @@
       <workItem from="1504485168601" duration="1324000" />
       <workItem from="1504489485561" duration="1448000" />
       <workItem from="1504618799090" duration="537000" />
-      <workItem from="1504750278986" duration="1147000" />
+      <workItem from="1504750278986" duration="1215000" />
     </task>
+    <task id="LOCAL-00001" summary="修改项目名称。">
+      <created>1504751785732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504751785732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15889000" />
+    <option name="totallyTimeSpent" value="15957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -736,6 +734,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改项目名称。" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改项目名称。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
