@@ -7,19 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="验证码初步完成。">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/artifacts/20170831LXJ_Calculator_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/20170831LXJ_Calculator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/FilterPackage/Filter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/ListenerPackage/VistListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/ServletPackage/DarkRoomServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/web/smallDarkRoom.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/web/successed.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/web/succeed.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/modules.xml" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/misc.xml" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" afterPath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,38 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="VistListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/ListenerPackage/VistListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Filter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/FilterPackage/Filter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-354">
-              <caret line="22" column="114" lean-forward="true" selection-start-line="22" selection-start-column="114" selection-end-line="22" selection-end-column="114" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageServlet.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="45" column="4" lean-forward="false" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -191,6 +150,11 @@
               <item name="20170831LXJ_SmallDarkRoom" type="b2602c69:ProjectViewProjectNode" />
               <item name="20170831LXJ_SmallDarkRoom" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="20170831LXJ_SmallDarkRoom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="20170831LXJ_SmallDarkRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="20170905LXJ_BookWarehouse" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -202,6 +166,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15517241" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -705,7 +672,7 @@
       <workItem from="1505034988424" duration="9000" />
       <workItem from="1505053806883" duration="1717000" />
       <workItem from="1505091880470" duration="2010000" />
-      <workItem from="1505125210986" duration="328000" />
+      <workItem from="1505125210986" duration="614000" />
     </task>
     <task id="LOCAL-00001" summary="修改项目名称。">
       <created>1504751785732</created>
@@ -735,11 +702,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504777551064</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="验证码初步完成。">
+      <created>1505125548283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505125548283</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31437000" />
+    <option name="totallyTimeSpent" value="31723000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -752,11 +726,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32816228" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816228" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -765,7 +738,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -835,6 +808,32 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1119,11 +1118,100 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="45" column="4" lean-forward="false" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
+        <state relative-caret-position="1600">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>20170831LXJ_Calculator:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Struts 2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>20170831LXJ_Calculator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Struts 2-2.3.20.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
