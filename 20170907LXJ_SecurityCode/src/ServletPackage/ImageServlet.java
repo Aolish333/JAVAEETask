@@ -28,7 +28,7 @@ public class ImageServlet extends HttpServlet {
 
     /**
      * 生成字符串
-     * @return
+     *
      */
     public static String GeneratingString(int n){
         StringBuffer picString = new StringBuffer();
@@ -126,7 +126,25 @@ public class ImageServlet extends HttpServlet {
         BufferedImage bufferedImage = Paint(picString);
 //        System.out.println(bufferedImage);
         request.getSession().setAttribute("picCode",picString);
-        ImageIO.write(bufferedImage,"JPG",response.getOutputStream());
+
+        String UserCode = (String) request.getAttribute("usercode");
+        String UserName = (String) request.getAttribute("username");
+        String Password = (String) request.getAttribute("password");
+        if (UserCode.equals("")){
+            ImageIO.write(bufferedImage,"JPG",response.getOutputStream());
+        }
+        //如果验证码正确
+        //判断用户账号密码
+        if (UserCode.equals(picString)){
+            if (UserName.equals("123")&&Password.equals("123")){
+                //登陆成功
+                //使用重定向，
+                response.sendRedirect("succeed");
+            }
+        }else {
+            System.out.printf("用户名密码或验证码不正确。");
+        }
+
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
