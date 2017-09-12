@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_20170912lxj_struct2helloworld" default="compile.module.20170912lxj_struct2helloworld">
+  <dirname property="module.20170912lxj_struct2helloworld.basedir" file="${ant.file.module_20170912lxj_struct2helloworld}"/>
+  
+  <property name="module.jdk.home.20170912lxj_struct2helloworld" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.20170912lxj_struct2helloworld" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.20170912lxj_struct2helloworld" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.20170912lxj_struct2helloworld" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="20170912lxj_struct2helloworld.output.dir" value="${module.20170912lxj_struct2helloworld.basedir}/../../20170831LXJ_SmallDarkRoom/out/production/20170912LXJ_Struct2HelloWorld"/>
+  <property name="20170912lxj_struct2helloworld.testoutput.dir" value="${module.20170912lxj_struct2helloworld.basedir}/../../20170831LXJ_SmallDarkRoom/out/test/20170912LXJ_Struct2HelloWorld"/>
+  
+  <path id="20170912lxj_struct2helloworld.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="20170912lxj_struct2helloworld.module.production.classpath">
+    <path refid="${module.jdk.classpath.20170912lxj_struct2helloworld}"/>
+    <path refid="library.struts_2.classpath"/>
+    <path refid="library.tomcat_7.0.75.classpath"/>
+  </path>
+  
+  <path id="20170912lxj_struct2helloworld.runtime.production.module.classpath">
+    <pathelement location="${20170912lxj_struct2helloworld.output.dir}"/>
+    <path refid="library.struts_2.classpath"/>
+  </path>
+  
+  <path id="20170912lxj_struct2helloworld.module.classpath">
+    <path refid="${module.jdk.classpath.20170912lxj_struct2helloworld}"/>
+    <pathelement location="${20170912lxj_struct2helloworld.output.dir}"/>
+    <path refid="library.struts_2.classpath"/>
+    <path refid="library.tomcat_7.0.75.classpath"/>
+  </path>
+  
+  <path id="20170912lxj_struct2helloworld.runtime.module.classpath">
+    <pathelement location="${20170912lxj_struct2helloworld.testoutput.dir}"/>
+    <pathelement location="${20170912lxj_struct2helloworld.output.dir}"/>
+    <path refid="library.struts_2.classpath"/>
+    <path refid="library.tomcat_7.0.75.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.20170912lxj_struct2helloworld">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.20170912lxj_struct2helloworld">
+    <patternset refid="excluded.from.module.20170912lxj_struct2helloworld"/>
+  </patternset>
+  
+  <path id="20170912lxj_struct2helloworld.module.sourcepath">
+    <dirset dir="${module.20170912lxj_struct2helloworld.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.20170912lxj_struct2helloworld" depends="compile.module.20170912lxj_struct2helloworld.production,compile.module.20170912lxj_struct2helloworld.tests" description="Compile module 20170912LXJ_Struct2HelloWorld"/>
+  
+  <target name="compile.module.20170912lxj_struct2helloworld.production" depends="register.custom.compilers" description="Compile module 20170912LXJ_Struct2HelloWorld; production classes">
+    <mkdir dir="${20170912lxj_struct2helloworld.output.dir}"/>
+    <javac2 destdir="${20170912lxj_struct2helloworld.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.20170912lxj_struct2helloworld}/javac">
+      <compilerarg line="${compiler.args.20170912lxj_struct2helloworld}"/>
+      <bootclasspath refid="20170912lxj_struct2helloworld.module.bootclasspath"/>
+      <classpath refid="20170912lxj_struct2helloworld.module.production.classpath"/>
+      <src refid="20170912lxj_struct2helloworld.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.20170912lxj_struct2helloworld"/>
+    </javac2>
+    
+    <copy todir="${20170912lxj_struct2helloworld.output.dir}">
+      <fileset dir="${module.20170912lxj_struct2helloworld.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.20170912lxj_struct2helloworld.tests" depends="register.custom.compilers,compile.module.20170912lxj_struct2helloworld.production" description="compile module 20170912LXJ_Struct2HelloWorld; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.20170912lxj_struct2helloworld" description="cleanup module">
+    <delete dir="${20170912lxj_struct2helloworld.output.dir}"/>
+    <delete dir="${20170912lxj_struct2helloworld.testoutput.dir}"/>
+  </target>
+</project>

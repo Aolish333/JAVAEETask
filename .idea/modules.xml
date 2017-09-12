@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/20170831LXJ_Calculator.iml" filepath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/20170831LXJ_Calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" filepath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" filepath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" filepath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/JAVAEETask.iml" filepath="$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/JAVAEETask.iml" />
+      <module fileurl="file://H:/20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/20170831LXJ_Calculator.iml" filepath="H:/20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/20170831LXJ_Calculator.iml" />
+      <module fileurl="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" filepath="H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" />
+      <module fileurl="file://H:/20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" filepath="H:/20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" />
+      <module fileurl="file://H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" filepath="H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" filepath="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVAEETask.iml" filepath="$PROJECT_DIR$/.idea/JAVAEETask.iml" />
+      <module fileurl="file://H:/20170831LXJ_SmallDarkRoom/JAVAEETask.iml" filepath="H:/20170831LXJ_SmallDarkRoom/JAVAEETask.iml" />
     </modules>
   </component>
 </project>

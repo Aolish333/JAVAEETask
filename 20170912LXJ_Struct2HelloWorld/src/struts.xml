@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <package name="helloworld" extends="struts-default">
+        <action name="hello1" class="Ordinary" >
+            <result name="success">/helloworld.jsp</result>
+            <result name="error">/error.jsp</result>
+        </action>
+        <action name="hello2" class="InhertStyle" >
+            <result name="success">/helloworld.jsp</result>
+            <result name="error">/error.jsp</result>
+        </action>
+        <action name="hell3" class="ImplStyle" >
+            <result name="success">/helloworld.jsp</result>
+            <result name="error">/error.jsp</result>
+        </action>
+    </package>
+</struts>
