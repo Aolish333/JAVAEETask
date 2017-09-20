@@ -7,63 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="修复代码缺失，完成验证码。">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/20170918LXJ_CheckingCode_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2_5_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2__2_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2__3_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/20170831LXJ_SmallDarkRoom.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/LoginServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/adminUser.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/ordinaryUser.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/20170918LXJ_CheckingCode.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/ServletPackage/ImageServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/image.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/adminUser.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/ordinaryUser.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/succeed.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_Calculator_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_3_20_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm-commons.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm-tree.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-fileupload.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-io.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-lang.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/freemarker.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javassist.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/ognl.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/struts2-core.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/xwork-core.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JAVAEETask.iml" afterPath="$PROJECT_DIR$/.idea/JAVAEETask.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170903LXJ_StaticWeb_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170903LXJ_StaticWeb_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170907LXJ_SecurityCode_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170907LXJ_SecurityCode_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170912LXJ_Struct2HelloWorld_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170912LXJ_Struct2HelloWorld_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/20170831LXJ_SmallDarkRoom1.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" afterPath="$PROJECT_DIR$/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" afterPath="$PROJECT_DIR$/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" afterPath="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/20170831LXJ_Calculator.iml" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode1.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/src/FilterPackage/Filter.java" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/FilterPackage/Filter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/src/ListenerPackage/VistListener.java" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/ListenerPackage/VistListener.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/src/ServletPackage/DarkRoomServlet.java" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/ServletPackage/DarkRoomServlet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/WEB-INF/web.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/index.jsp" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/smallDarkRoom.jsp" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/smallDarkRoom.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/successed.jsp" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/successed.jsp" />
     </list>
     <ignored path="H:/20170831LXJ_SmallDarkRoom/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -263,6 +208,24 @@
             <path>
               <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
+              <item name="20170831LXJ_SmallDarkRoom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
+              <item name="20170831LXJ_SmallDarkRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
+              <item name="20170831LXJ_SmallDarkRoom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ListenerPackage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -819,7 +782,7 @@
       <workItem from="1505872344189" duration="3000" />
       <workItem from="1505896012807" duration="2039000" />
       <workItem from="1505904904321" duration="507000" />
-      <workItem from="1505905677435" duration="7602000" />
+      <workItem from="1505905677435" duration="7729000" />
     </task>
     <task id="LOCAL-00001" summary="修改项目名称。">
       <created>1504751785732</created>
@@ -863,11 +826,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505188869777</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修复代码缺失，完成验证码。">
+      <created>1505913328475</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1505913328475</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56692000" />
+    <option name="totallyTimeSpent" value="56819000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -898,7 +868,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35918856" sideWeight="0.49460045" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35918856" sideWeight="0.49460045" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31263497" sideWeight="0.46975088" order="0" side_tool="false" content_ui="combo" />
@@ -1048,13 +1018,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/error.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/helloworld.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
@@ -1434,6 +1397,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/ListenerPackage/VistListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
