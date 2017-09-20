@@ -2,20 +2,68 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="20170831LXJ_Calculator:war exploded" />
-      <artifact name="20170831LXJ_SmallDarkRoom:war exploded" />
-      <artifact name="20170903LXJ_StaticWeb:war exploded" />
-      <artifact name="20170905LXJ_BookWarehouse:war exploded" />
-      <artifact name="20170907LXJ_SecurityCode:war exploded" />
-      <artifact name="20170912LXJ_Struct2HelloWorld:war exploded" />
+      <artifact name="20170918LXJ_CheckingCode:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="验证码初步完成。">
+    <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="修复代码缺失，完成验证码。">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/20170918LXJ_CheckingCode_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2_5_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2__2_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2__3_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/asm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/20170831LXJ_SmallDarkRoom.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/adminUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/ordinaryUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/20170918LXJ_CheckingCode.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/Login.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/ServletPackage/ImageServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/image.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/struts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/adminUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/error.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/ordinaryUser.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/succeed.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_Calculator_war_exploded.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_3_20_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm-commons.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm-tree.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/asm.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-fileupload.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-io.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/commons-lang.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/freemarker.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/javassist.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/ognl.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/struts2-core.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/xwork-core.jar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JAVAEETask.iml" afterPath="$PROJECT_DIR$/.idea/JAVAEETask.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170903LXJ_StaticWeb_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170903LXJ_StaticWeb_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170907LXJ_SecurityCode_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170907LXJ_SecurityCode_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170912LXJ_Struct2HelloWorld_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170912LXJ_Struct2HelloWorld_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" afterPath="$PROJECT_DIR$/20170903LXJ_StaticWeb/20170903LXJ_StaticWeb.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" afterPath="$PROJECT_DIR$/20170905LXJ_BookWarehouse/20170905LXJ_BookWarehouse.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" afterPath="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/20170831LXJ_Calculator.iml" afterPath="$PROJECT_DIR$/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode1.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/src/FilterPackage/Filter.java" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/FilterPackage/Filter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/src/ListenerPackage/VistListener.java" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/ListenerPackage/VistListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/src/ServletPackage/DarkRoomServlet.java" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/ServletPackage/DarkRoomServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/index.jsp" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/smallDarkRoom.jsp" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/smallDarkRoom.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/20170831LXJ_Calculator/web/successed.jsp" afterPath="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/successed.jsp" />
     </list>
     <ignored path="H:/20170831LXJ_SmallDarkRoom/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +72,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/JAVAEETask$Tomcat_7_0_75.coverage" NAME="Tomcat 7.0.75 Coverage Results" MODIFIED="1505736985188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -37,30 +88,19 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="200">
-                <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="struts_2_3" />
-        <option value="struts_2_5" />
         <option value="Interface" />
-        <option value="Class" />
+        <option value="struts" />
+        <option value="struts_2_5" />
+        <option value="jsf" />
         <option value="Jsp File" />
+        <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -107,7 +147,6 @@
         <option value="H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/web/succeed.jsp" />
         <option value="H:/20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/ListenerPackage/VistListener.java" />
         <option value="H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" />
-        <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/InheritStyle.java" />
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/helloword.jsp" />
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/WEB-INF/error.jsp" />
@@ -115,11 +154,29 @@
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/Ordinary.java" />
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/helloworld.jsp" />
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/struts.xml" />
-        <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/InhertStyle.java" />
-        <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/ImplStyle.java" />
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/index.jsp" />
         <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/error.jsp" />
+        <option value="$PROJECT_DIR$/20170831LXJ_Calculator/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/20170831LXJ_Calculator/src/FilterPackage/Filter.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/g.xhtml" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/d.jsp" />
+        <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/InhertStyle.java" />
+        <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/ImplStyle.java" />
+        <option value="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/error.xhtml" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/error.jsp" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/adminUser.jsp" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/ordinaryUser.jsp" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/20170907LXJ_SecurityCode/web/index.jsp" />
+        <option value="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/ServletPackage/ImageServlet.java" />
+        <option value="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/struts.xml" />
+        <option value="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/image.java" />
+        <option value="$PROJECT_DIR$/20170918LXJ_CheckingCode/web/index.jsp" />
+        <option value="$PROJECT_DIR$/20170918LXJ_CheckingCode/src/Login.java" />
       </list>
     </option>
   </component>
@@ -147,10 +204,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="44" />
-    <option name="y" value="20" />
-    <option name="width" value="1942" />
-    <option name="height" value="1042" />
+    <option name="x" value="-17" />
+    <option name="y" value="-19" />
+    <option name="width" value="1932" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -189,20 +246,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Production">
           <expand>
             <path>
-              <item name="20170831LXJ_SmallDarkRoom" type="58d84e3e:PackageViewProjectNode" />
-              <item name="20170907LXJ_SecurityCode" type="616d4139:PackageViewModuleNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="20170907LXJ_SecurityCode" type="cbb8eebc:String" user="20170907LXJ_SecurityCode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,25 +264,33 @@
               <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
             <path>
-              <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
-              <item name="20170907LXJ_SecurityCode" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVAEETask" type="58d84e3e:PackageViewProjectNode" />
+              <item name="20170907LXJ_SecurityCode" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15517241" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.side.proportion" value="0.3762529" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/20170831LXJ_SmallDarkRoom" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
@@ -236,14 +298,16 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javaeetask" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\JAVAEETask\20170912LXJ_Struct2HelloWorld\web" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\JAVAEETask\20170918LXJ_CheckingCode\web\WEB-INF" />
+      <recent name="H:\JAVAEETask\20170918LXJ_CheckingCode\src" />
       <recent name="H:\20170831LXJ_SmallDarkRoom\20170831LXJ_Calculator\web" />
       <recent name="H:\20170831LXJ_SmallDarkRoom\20170831LXJ_Calculator\web\WEB-INF" />
       <recent name="H:\20170831LXJ_SmallDarkRoom\20170831LXJ_Calculator" />
-      <recent name="H:\20170831LXJ_SmallDarkRoom\20170903LXJ_StaticWeb\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\JAVAEETask\20170918LXJ_CheckingCode\web" />
+      <recent name="H:\JAVAEETask\20170912LXJ_Struct2HelloWorld\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -258,18 +322,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 7.0.75">
-    <configuration name="Tomcat 7.0.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.75" ALTERNATIVE_JRE_ENABLED="false">
+  <component name="RunManager" selected="Tomcat Server. Tomcat 7.0.75">
+    <configuration name=" Tomcat 7.0.75" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.75" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="20170907LXJ_SecurityCode:war exploded">
+        <artifact name="20170918LXJ_CheckingCode:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_75_JAVAEETask" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_75_JAVAEETask_2" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -278,7 +342,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="12112" />
+        <option name="DEBUG_PORT" value="11323" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -327,7 +391,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="20170907LXJ_SecurityCode:war exploded" />
+          <artifact name="20170918LXJ_CheckingCode:war exploded" />
         </option>
       </method>
     </configuration>
@@ -747,7 +811,15 @@
       <workItem from="1505125210986" duration="614000" />
       <workItem from="1505183692531" duration="153000" />
       <workItem from="1505183846277" duration="4477000" />
-      <workItem from="1505188717288" duration="137000" />
+      <workItem from="1505188717288" duration="447000" />
+      <workItem from="1505729592221" duration="7569000" />
+      <workItem from="1505810849425" duration="1086000" />
+      <workItem from="1505817701546" duration="407000" />
+      <workItem from="1505819095692" duration="679000" />
+      <workItem from="1505872344189" duration="3000" />
+      <workItem from="1505896012807" duration="2039000" />
+      <workItem from="1505904904321" duration="507000" />
+      <workItem from="1505905677435" duration="7602000" />
     </task>
     <task id="LOCAL-00001" summary="修改项目名称。">
       <created>1504751785732</created>
@@ -784,11 +856,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505125548283</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="测试案例">
+      <created>1505188869777</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1505188869777</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36490000" />
+    <option name="totallyTimeSpent" value="56692000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -801,31 +880,32 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816228" sideWeight="0.50431967" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5053996" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.49784017" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2737581" sideWeight="0.47695035" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27429804" sideWeight="0.52304965" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46300715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32897863" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816228" sideWeight="0.49568033" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35918856" sideWeight="0.49460045" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31263497" sideWeight="0.46975088" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31263497" sideWeight="0.5302491" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.398568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -833,9 +913,9 @@
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32938388" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32816228" sideWeight="0.49568033" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -945,11 +1025,21 @@
     <MESSAGE value="test" />
     <MESSAGE value="完了了绘制验证码。" />
     <MESSAGE value="验证码初步完成。" />
-    <option name="LAST_COMMIT_MESSAGE" value="验证码初步完成。" />
+    <MESSAGE value="测试案例" />
+    <MESSAGE value="修复代码缺失，完成验证码。" />
+    <option name="LAST_COMMIT_MESSAGE" value="修复代码缺失，完成验证码。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/20170918LXJ_CheckingCode/src/Login.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -958,123 +1048,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/web/WEB-INF/web.xml" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/FilterPackage/Filter.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/src/ServletPackage/StatisticsServlet.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/web/index.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/src/ServletPackage/StatisticsServlet.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/web/index.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/ServletPackage/DarkRoomServlet.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/web/WEB-INF/list" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/web/smallDarkRoom.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/ServletPackage/DarkRoomServlet.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/struts.xml" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/web/index.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/web/successed.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/ListenerPackage/VistListener.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/ServletPackage/StatisticsList.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/ServletPackage/StatisticsServlet.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/src/ServletPackage/DarkRoomServlet.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/src/ServletPackage/StatisticsServlet.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/web/index.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170903LXJ_StaticWeb/web/WEB-INF/web.xml" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/src/FilterPackage/Filter.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/web/WEB-INF/web.xml" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/web/Login.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170905LXJ_BookWarehouse/web/index.jsp" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/javax/imageio/ImageIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Apache Software Foundation/apache-tomcat-7.0.75/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="62" column="19" lean-forward="false" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/src/Mod/User.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/web/WEB-INF/web.xml" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/web/index.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/web/index.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/web/succeed.jsp" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/JAVAEETask.iml" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/ListenerPackage/VistListener.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170831LXJ_Calculator/src/FilterPackage/Filter.java" />
-    <entry file="file://H:/20170831LXJ_SmallDarkRoom/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java" />
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22">
-          <caret line="7" column="52" lean-forward="false" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/InheritStyle.java" />
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/helloword.jsp" />
-    <entry file="file://$PROJECT_DIR$/20170905LXJ_BookWarehouse/web/Login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/succeed.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170903LXJ_StaticWeb/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/struts.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/Ordinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/InhertStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/ImplStyle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaeetask.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/error.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -1093,25 +1066,374 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/javaeetask.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="2" column="35" lean-forward="true" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/ServletPackage/DarkRoomServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/smallDarkRoom.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170905LXJ_BookWarehouse/web/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170903LXJ_StaticWeb/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/g.xhtml" />
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/d.jsp" />
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/20170907LXJ_SecurityCode.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JAVAEETask.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/InhertStyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/succeed.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="13" column="32" lean-forward="false" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/20170831LXJ_SmallDarkRoom.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/com/sun/jmx/mbeanserver/JmxMBeanServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="800" column="0" lean-forward="false" selection-start-line="800" selection-start-column="0" selection-end-line="800" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="200">
-            <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-            <folding />
+          <first_editor relative-caret-position="280">
+            <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="27" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="7" column="88" lean-forward="false" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/index.jsp___jb_tmp___" />
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_77/src.zip!/com/sun/jmx/interceptor/DefaultMBeanServerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="818" column="0" lean-forward="false" selection-start-line="818" selection-start-column="0" selection-end-line="818" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/error.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/adminUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/ordinaryUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170903LXJ_StaticWeb/src/ServletPackage/StatisticsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170831LXJ_SmallDarkRoom/src/FilterPackage/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="37" column="67" lean-forward="true" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/src/image.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/ImageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="127" column="28" lean-forward="false" selection-start-line="127" selection-start-column="28" selection-end-line="127" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/src/ServletPackage/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-346">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/web/adminUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/Ordinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#138#139#0" expanded="false" />
+            <element signature="e#169#170#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/src/ImplStyle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170907LXJ_SecurityCode/src/ServletPackage/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="19" column="56" lean-forward="false" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/web/error.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/web/succeed.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Apache Software Foundation/apache-tomcat-7.0.75/lib/servlet-api.jar!/javax/servlet/annotation/WebServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/src/ServletPackage/ImageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="128" column="72" lean-forward="false" selection-start-line="123" selection-start-column="8" selection-end-line="128" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/src/struts.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/src/image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170918LXJ_CheckingCode/src/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1121,11 +1443,11 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>20170831LXJ_Calculator:war exploded</last-edited>
+          <last-edited>20170903LXJ_StaticWeb:war exploded</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3762529" />
                 <option value="0.5" />
               </list>
             </option>
@@ -1134,11 +1456,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Struts 2</last-edited>
+          <last-edited>Web (20170905LXJ_BookWarehouse)|Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3762529" />
               </list>
             </option>
           </splitter-proportions>
@@ -1149,7 +1471,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3762529" />
               </list>
             </option>
           </splitter-proportions>
@@ -1161,7 +1483,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3762529" />
               </list>
             </option>
           </splitter-proportions>
@@ -1169,11 +1491,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>JAVAEETask</last-edited>
+          <last-edited>20170831LXJ_SmallDarkRoom1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3762529" />
                 <option value="0.6" />
               </list>
             </option>
@@ -1182,11 +1504,11 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Struts 2-2.3.20.1</last-edited>
+          <last-edited>Struts 2.5.1.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3762529" />
               </list>
             </option>
           </splitter-proportions>

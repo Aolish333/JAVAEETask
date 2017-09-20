@@ -14,7 +14,7 @@ import java.util.concurrent.ThreadLocalRandom;
 /**
  * Created by hp on 2017/9/7.
  */
-@WebServlet(name = "ImageServlet", urlPatterns = "/image")
+@WebServlet(name = "ServletPackage.ImageServlet", urlPatterns = "/image")
 /**
  * 生成验证码
  * 大体思路：

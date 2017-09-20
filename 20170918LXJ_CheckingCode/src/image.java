@@ -1,31 +1,42 @@
-package ServletPackage;
+import com.opensymphony.xwork2.Action;
+import com.opensymphony.xwork2.ActionContext;
 
 import javax.imageio.ImageIO;
-import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.awt.*;
 import java.awt.image.BufferedImage;
-import java.io.IOException;
+import java.io.ByteArrayInputStream;
+import java.io.ByteArrayOutputStream;
 import java.util.concurrent.ThreadLocalRandom;
 
-/**
- * Created by hp on 2017/9/7.
- */
-@WebServlet(name = "ImageServlet", urlPatterns = "/image")
-/**
- * 生成验证码
- * 大体思路：
- * 1、用画布将验证码的图形画出来。
- * 2、将图形发送给客户端。
- * 3、客户端提交登陆信息后再与生成的验证码做对比。
- */
-public class ImageServlet extends HttpServlet {
+public class image implements Action {
+    @Override
+    public String execute() throws Exception {
+        String picString = GeneratingString(n);
+        BufferedImage bufferedImage = Paint(picString);
+//        System.out.println(bufferedImage);
+//        request.getSession().setAttribute("picCode", picString.toString());
+        System.out.println(picString);
+         ActionContext.getContext().getSession().put("picString",picString);
+        ByteArrayOutputStream outputStream = new ByteArrayOutputStream();
+        ImageIO.write(bufferedImage, "jpeg", outputStream);
+        ByteArrayInputStream input = new ByteArrayInputStream(outputStream
+                .toByteArray());
+        this.setInputStream(input);
+
+        input.close();
+        outputStream.close();
+
+        return SUCCESS;
+    }
     public static final int n = 4;//默认为生成4个字符的字符串
     public static final char[] picChar = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'};
-
+    private ByteArrayInputStream inputStream;
+    public ByteArrayInputStream getInputStream() {
+        return inputStream;
+    }
+    public void setInputStream(ByteArrayInputStream inputStream) {
+        this.inputStream = inputStream;
+    }
     /**
      * 生成字符串
      */
@@ -114,23 +125,5 @@ public class ImageServlet extends HttpServlet {
 
         g.dispose();
         return image;
-    }
-
-    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        /**
-         * 1、随机生成4个字符的字符串
-         * 2、将生成的字符串转化为图片
-         */
-        String picString = GeneratingString(n);
-        BufferedImage bufferedImage = Paint(picString);
-//        System.out.println(bufferedImage);
-        request.getSession().setAttribute("picCode", picString.toString());
-        System.out.println(picString);
-        ImageIO.write(bufferedImage, "JPG", response.getOutputStream());
-
-    }
-
-    protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        doPost(request, response);
     }
 }

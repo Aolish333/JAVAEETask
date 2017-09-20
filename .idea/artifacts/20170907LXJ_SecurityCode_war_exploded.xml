@@ -1,11 +1,15 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="20170907LXJ_SecurityCode:war exploded">
-    <output-path>$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/out/artifacts/20170907LXJ_SecurityCode_war_exploded</output-path>
+    <output-path>H:/20170831LXJ_SmallDarkRoom/out/artifacts/20170907LXJ_SecurityCode_war_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="20170907LXJ_SecurityCode/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="20170907LXJ_SecurityCode" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Struts 2 (2)" />
+          <element id="library" level="project" name="Struts 2.5.1.3" />
         </element>
       </element>
     </root>

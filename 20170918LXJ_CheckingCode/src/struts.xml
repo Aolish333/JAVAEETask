@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+<struts>
+    <package name="userPackage" extends="struts-default">
+        <action name="login" class="Login">
+            <result name="success">/succeed.jsp</result>
+            <result name="error">/error.jsp</result>
+            <result name="adminUser">/adminUser.jsp</result>
+            <result name="ordinaryUser">/ordinaryUser.jsp</result>
+        </action>
+        <action name="image" class="image">
+            <result name="success" type="stream">
+                <param name="contentType">image/jpeg</param>
+                <param name="inputName">inputStream</param>
+            </result>
+        </action>
+    </package>
+</struts>

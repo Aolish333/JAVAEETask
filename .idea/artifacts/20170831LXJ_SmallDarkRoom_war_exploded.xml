@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="20170831LXJ_SmallDarkRoom:war exploded">
-    <output-path>$PROJECT_DIR$/../20170831LXJ_SmallDarkRoom/out/artifacts/20170831LXJ_SmallDarkRoom_war_exploded</output-path>
+    <output-path>H:/20170831LXJ_SmallDarkRoom/out/artifacts/20170831LXJ_SmallDarkRoom_war_exploded</output-path>
     <root id="root">
       <element id="javaee-facet-resources" facet="JAVAEETask/web/Web" />
       <element id="directory" name="WEB-INF">
@@ -9,6 +9,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Struts 2-2.3.20.1" />
+          <element id="library" level="project" name="asm" />
         </element>
       </element>
     </root>

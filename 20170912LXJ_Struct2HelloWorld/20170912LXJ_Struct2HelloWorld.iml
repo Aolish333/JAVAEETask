@@ -10,15 +10,6 @@
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
       </configuration>
-      <facet type="Struts2" name="Struts 2">
-        <configuration>
-          <fileset id="s2fileset" name="Default File Set " removed="false">
-            <file>file://$MODULE_DIR$/src/struts.xml</file>
-            <file>jar://$USER_HOME$/Desktop/struts-2.5.13-min-lib/struts-2.5.13/lib/struts2-core-2.5.13.jar!/struts-default.xml</file>
-          </fileset>
-          <propertiesKeys disabled="false" />
-        </configuration>
-      </facet>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
@@ -28,7 +19,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Struts 2" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Tomcat 7.0.75" level="application_server_libraries" />
+    <orderEntry type="library" name="asm" level="project" />
+    <orderEntry type="library" name="Struts 2 (3)" level="project" />
   </component>
 </module>

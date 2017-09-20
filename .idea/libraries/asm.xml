@@ -1,6 +1,5 @@
 <component name="libraryTable">
-  <library name="Struts 2-2.3.20.1" type="struts2">
-    <properties version="2.3.20.1" />
+  <library name="asm">
     <CLASSES />
     <JAVADOC />
     <SOURCES />
