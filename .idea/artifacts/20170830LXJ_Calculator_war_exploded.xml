@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="20170830LXJ_Calculator:war exploded">
+    <output-path>H:/20170831LXJ_SmallDarkRoom/out/artifacts/20170830LXJ_Calculator_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="20170830LXJ_Calculator/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="20170830LXJ_Calculator" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="org.thymeleaf:thymeleaf:Release" />
+          <element id="library" level="project" name="org.thymeleaf:thymeleaf-spring3:Release" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

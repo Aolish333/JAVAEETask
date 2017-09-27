@@ -5,4 +5,19 @@
         "http://struts.apache.org/dtds/struts-2.5.dtd">
 
 <struts>
+    <package name="basicDrive" extends="struts-default">
+        <action name="calculator1" class="BasicCaculator">
+            <result name="success">index.jsp</result>
+        </action>
+    </package>
+    <package name="attributeDrive" extends="struts-default">
+        <action name="calculator2" class="CalculateAction">
+            <result name="success">attribute.jsp</result>
+        </action>
+    </package>
+    <package name="eventDrive" extends="struts-default">
+        <action name="calculator3" class="CaculatorAction">
+            <result name="success">eventDriver.jsp</result>
+        </action>
+    </package>
 </struts>
