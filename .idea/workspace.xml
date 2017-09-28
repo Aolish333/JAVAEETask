@@ -6,27 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170830LXJ_Calculator/20170830LXJ_Calculator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170830LXJ_Calculator/src/CalculateServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170830LXJ_Calculator/src/ObjectPackage/Calculate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170830LXJ_Calculator/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170830LXJ_Calculator/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/Login.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/image.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/adminUser.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/error.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/ordinaryUser.jsp" />
+    <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="任务10上课代码完成。">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170920LXJ_CalculatorOfModel/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170927LXJ_Struct2Ioc/web/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookAction/AddBookAction.java" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookAction/AddBookAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookDB/BookVirtualDB.java" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookDB/BookVirtualDB.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookDao/BookPackge.java" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookDao/BookPackge.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookService/ServiceForBook.java" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/BookService/ServiceForBook.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/struts.xml" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/deleteBook.jsp" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/deleteBook.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/showBook.jsp" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/showBook.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/welcome.jsp" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/welcome.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/Book.java" afterPath="$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/src/Books/Book.java" />
     </list>
     <ignored path="H:/20170831LXJ_SmallDarkRoom/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +35,18 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -222,12 +217,12 @@
             <path>
               <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
-              <item name="20170927LXJ_Struct2Ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="20170927LXJ_BookStoreOfGlobbing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
-              <item name="20170927LXJ_Struct2Ioc" type="462c0819:PsiDirectoryNode" />
+              <item name="20170927LXJ_BookStoreOfGlobbing" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -806,7 +801,7 @@
       <workItem from="1506514784965" duration="7769000" />
       <workItem from="1506523262872" duration="1857000" />
       <workItem from="1506569751235" duration="6781000" />
-      <workItem from="1506579218676" duration="664000" />
+      <workItem from="1506579218676" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="修改项目名称。">
       <created>1504751785732</created>
@@ -885,11 +880,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506524860705</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="任务10上课代码完成。">
+      <created>1506579932958</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1506579932959</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84538000" />
+    <option name="totallyTimeSpent" value="84784000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -917,7 +919,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26511878" sideWeight="0.46975088" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26511878" sideWeight="0.46975088" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31263497" sideWeight="0.5302491" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1053,7 +1055,8 @@
     <MESSAGE value="修复代码缺失，完成验证码。" />
     <MESSAGE value="开始写Struct2的及计算器。" />
     <MESSAGE value="完成任务10一部分任务。" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成任务10一部分任务。" />
+    <MESSAGE value="任务10上课代码完成。" />
+    <option name="LAST_COMMIT_MESSAGE" value="任务10上课代码完成。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1224,6 +1227,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1232,6 +1236,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1239,6 +1244,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-121">
           <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,6 +1262,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="35" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1283,6 +1290,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1290,6 +1298,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
           <caret line="5208" column="15" lean-forward="true" selection-start-line="5208" selection-start-column="15" selection-end-line="5208" selection-end-column="15" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1304,6 +1313,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
           <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1311,6 +1321,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1318,6 +1331,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1325,6 +1339,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-826">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1332,13 +1347,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1346,6 +1357,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1353,6 +1365,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1360,6 +1373,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1367,6 +1381,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="21" column="76" lean-forward="true" selection-start-line="21" selection-start-column="76" selection-end-line="21" selection-end-column="76" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1374,6 +1389,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1381,6 +1397,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1388,6 +1405,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="22" column="27" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1398,6 +1416,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1405,6 +1424,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2014">
           <caret line="62" column="23" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1069#1070#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1137#1138#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1412,6 +1438,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
           <caret line="34" column="15" lean-forward="false" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1419,6 +1448,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
