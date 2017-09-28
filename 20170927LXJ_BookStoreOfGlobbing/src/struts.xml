@@ -13,4 +13,18 @@
             <allowed-methods>add,showAll</allowed-methods>
         </action>
     </package>
+    <package name="userPackage" extends="struts-default">
+        <action name="login" class="Login">
+            <result name="success">/welcome.jsp</result>
+            <result name="error">/error.jsp</result>
+            <result name="adminUser">/welcome.jsp</result>
+            <result name="ordinaryUser">/ordinaryUser.jsp</result>
+        </action>
+        <action name="image" class="image">
+            <result name="success" type="stream">
+                <param name="contentType">image/jpeg</param>
+                <param name="inputName">inputStream</param>
+            </result>
+        </action>
+    </package>
 </struts>

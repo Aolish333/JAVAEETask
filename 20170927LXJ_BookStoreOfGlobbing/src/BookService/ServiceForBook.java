@@ -1,8 +1,7 @@
 package BookService;
 
 import BookDao.BookPackge;
-
-import java.awt.print.Book;
+import Books.Book;
 import java.util.List;
 
 public class ServiceForBook {
@@ -10,7 +9,7 @@ public class ServiceForBook {
     public void addBook(Book book){
         bookPackge.addBook(book);
     }
-    public List<Book> showAllBook(){
+    public List<Books.Book> showAllBook(){
         return bookPackge.showAllBook();
     }
     public void singleFind(){

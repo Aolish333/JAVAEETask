@@ -3,18 +3,21 @@ package BookAction;
 import BookService.ServiceForBook;
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
-
-import java.awt.print.Book;
+import Books.Book;
 import java.util.List;
+
+;
 
 public class AddBookAction extends ActionSupport implements ModelDriven<Book> {
     Book book = new Book();
-    List<Book> bookList;
+
+    public List<Book> getBooks() {
+        return books;
+    }
+
+    List<Book> books;
     ServiceForBook serviceForBook = new ServiceForBook();
 // 此处必须写get方法，想想为什么？
-    public List<Book> getBookList() {
-        return bookList;
-    }
 
     /**
      * 添加书籍
@@ -30,8 +33,35 @@ public class AddBookAction extends ActionSupport implements ModelDriven<Book> {
      * @return 展示书籍
      */
     public String showAll(){
-        bookList = serviceForBook.showAllBook();
+        books = serviceForBook.showAllBook();
         return "showBookOK";
+    }
+
+    /**
+     * 精确查找书籍
+     * @param book
+     * @return
+     */
+    public String singleQuery(Book book){
+
+        return "";
+    }
+
+    /**
+     * 删除书籍
+     * @return
+     */
+    public String delete(){
+
+        return "";
+    }
+
+    /**
+     * 修改书籍
+     * @return
+     */
+    public String alter(){
+        return "";
     }
     @Override
     public Book getModel() {

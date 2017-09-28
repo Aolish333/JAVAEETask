@@ -1,8 +1,7 @@
 package BookDao;
 
 import BookDB.BookVirtualDB;
-
-import java.awt.print.Book;
+import Books.Book;
 import java.util.List;
 
 public class BookPackge {
@@ -15,7 +14,7 @@ public class BookPackge {
     /**
      * 显示所有书籍
      */
-    public List<Book> showAllBook(){
+    public List<Books.Book> showAllBook(){
         return BookVirtualDB.books;
     }
     /**
@@ -28,6 +27,12 @@ public class BookPackge {
      * 修改书籍信息
      */
     public void modifyBook(Book book){
+
+    }
+    /**
+     * 精确查找书籍
+     */
+    public void queryBook(Book book){
 
     }
 }
