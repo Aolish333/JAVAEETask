@@ -11,6 +11,6 @@
 8. 20170920LXJ_CalculatorOfModel 利用三种方式实现计算器【基本属性驱动、User属性驱动、模型驱动】(未完成)
 9. 20170927LXJ_Struct2Ioc 控制反转 (未完成)
 10. 20170927LXJ_BookStoreOfGlobbing 使用通配符构建书籍 (完成一半)
-
+11. 20171009LXJ_DataCheck （实验报告）
 ###备注
 计算器不在此代码。

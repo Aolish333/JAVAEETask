@@ -9,7 +9,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Struts 2-2.3.20.1" />
-          <element id="library" level="project" name="asm" />
+          <element id="library" level="project" name="Struts 2 (3)" />
         </element>
       </element>
     </root>

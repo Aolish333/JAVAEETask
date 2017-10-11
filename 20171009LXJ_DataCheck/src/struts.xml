@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE struts PUBLIC
+        "-//Apache Software Foundation//DTD Struts Configuration 2.5//EN"
+        "http://struts.apache.org/dtds/struts-2.5.dtd">
+
+<struts>
+    <package name="Check" extends="struts-default">
+        <action name="register" class="RegisterPackage.Register" method="register">
+            <result name="success">
+                success.jsp
+            </result>
+            <result name="input">
+                index.jsp
+            </result>
+        </action>
+        <action name="image" class="lib.image">
+            <result name="success" type="stream">
+                <param name="contentType">image/jpeg</param>
+                <param name="inputName">inputStream</param>
+            </result>
+        </action>
+    </package>
+</struts>
