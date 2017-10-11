@@ -7,31 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/20171009LXJ_DataCheck1_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/20171009LXJ_DataCheck.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/20171009LXJ_DataCheck1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/src/RegisterPackage/Register-validation.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/src/RegisterPackage/Register.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/src/lib/image.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/src/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/web/checking.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/web/index.jsp" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/asm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_thymeleaf_thymeleaf_Release.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_thymeleaf_thymeleaf_spring3_Release.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/successed.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/JAVAEETask.iml" afterPath="$PROJECT_DIR$/.idea/JAVAEETask.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170830LXJ_Calculator_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170830LXJ_Calculator_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20170831LXJ_SmallDarkRoom_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170830LXJ_Calculator/20170830LXJ_Calculator.iml" afterPath="$PROJECT_DIR$/20170830LXJ_Calculator/20170830LXJ_Calculator.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" afterPath="$PROJECT_DIR$/20170912LXJ_Struct2HelloWorld/20170912LXJ_Struct2HelloWorld.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index.jsp" afterPath="$PROJECT_DIR$/web/index.jsp" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/smallDarkRoom.jsp" afterPath="$PROJECT_DIR$/20171009LXJ_DataCheck/web/success.jsp" />
     </list>
     <ignored path="H:/20170831LXJ_SmallDarkRoom/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -907,7 +883,7 @@
       <workItem from="1507533367292" duration="7532000" />
       <workItem from="1507677276020" duration="9518000" />
       <workItem from="1507717443684" duration="1434000" />
-      <workItem from="1507719955712" duration="79000" />
+      <workItem from="1507719955712" duration="123000" />
     </task>
     <task id="LOCAL-00001" summary="修改项目名称。">
       <created>1504751785732</created>
@@ -1000,11 +976,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506580160979</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="第二次实验（初次）">
+      <created>1507720074630</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1507720074630</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103691000" />
+    <option name="totallyTimeSpent" value="103735000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1173,7 +1156,8 @@
     <MESSAGE value="完成任务10一部分任务。" />
     <MESSAGE value="任务10上课代码完成。" />
     <MESSAGE value="提交8、9、10的index页面。" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交8、9、10的index页面。" />
+    <MESSAGE value="第二次实验（初次）" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次实验（初次）" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1378,6 +1362,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1393,6 +1378,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1458,6 +1444,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="4763" column="2" lean-forward="false" selection-start-line="4763" selection-start-column="2" selection-end-line="4763" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1482,7 +1469,7 @@
         <state relative-caret-position="473">
           <caret line="116" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
