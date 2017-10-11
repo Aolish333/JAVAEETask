@@ -11,6 +11,6 @@
     <title>注册成功页面</title>
 </head>
 <body>
-用户${requestScope.get(realname)}登陆成功
+用户${sessionScope.user}登陆成功
 </body>
 </html>

@@ -8,7 +8,7 @@
     <package name="Check" extends="struts-default">
         <action name="register" class="RegisterPackage.Register" method="register">
             <result name="success">
-                success.jsp
+                login.jsp
             </result>
             <result name="input">
                 index.jsp
@@ -18,6 +18,11 @@
             <result name="success" type="stream">
                 <param name="contentType">image/jpeg</param>
                 <param name="inputName">inputStream</param>
+            </result>
+        </action>
+        <action name="login" class="RegisterPackage.LoginAction" method="login">
+            <result name="loginOK" >
+                success.jsp
             </result>
         </action>
     </package>

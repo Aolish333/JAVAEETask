@@ -20,5 +20,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Struts 2 (3)" level="project" />
+    <orderEntry type="library" name="struts2-dojo-plugin-2.3.31" level="project" />
   </component>
 </module>

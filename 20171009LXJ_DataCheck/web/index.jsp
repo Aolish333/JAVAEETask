@@ -1,4 +1,7 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
+<%@ taglib prefix="sx" uri="/struts-dojo-tags" %>
+
+
 <%--
   Created by IntelliJ IDEA.
   User: hp
@@ -12,13 +15,15 @@
     <title>注册</title>
 </head>
 <body>
-<s:form method="POST" action="register.action">
+<s:form method="POST" action="register">
     <s:textfield name="emailAddress" label="Email地址"></s:textfield>
     <s:password name="password" label="密码"></s:password>
     <s:password name="confirPassword" label="确认密码"></s:password>
     <s:textfield name="userName" label="登陆名(昵称)"></s:textfield>
     <s:textfield name="realName" label="真实姓名"></s:textfield>
     <s:textfield name="phoneNumber" label="手机号"></s:textfield>
+    <sx:head/>
+        <sx:datetimepicker name="birthDay" label="生日"></sx:datetimepicker>
     <th>
     <s:include value="checking.jsp"></s:include>
     </th>

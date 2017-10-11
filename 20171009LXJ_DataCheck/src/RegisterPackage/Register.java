@@ -3,6 +3,8 @@ package RegisterPackage;
 import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
 
+import java.util.Date;
+
 public class Register extends ActionSupport {
 
 
@@ -79,6 +81,16 @@ public class Register extends ActionSupport {
     private String imageCode;
     private String userCode;
 
+    public Date getBirthDay() {
+        return birthDay;
+    }
+
+    public void setBirthDay(Date birthDay) {
+        this.birthDay = birthDay;
+    }
+
+    private Date birthDay;
+
     public String getPicString() {
         return picString;
     }
@@ -109,6 +121,11 @@ public class Register extends ActionSupport {
     }
 
     public String register(){
+        //返回用户名
+        ActionContext.getContext().getSession().put("password" ,password);
+        ActionContext.getContext().getSession().put("username" ,userName);
+        ActionContext.getContext().getSession().put("birthDay" ,birthDay);
+        ActionContext.getContext().getSession().put("emailAddress" ,emailAddress);
         if (userName.equals("aolish333")&&password.equals("123456")){
             return "success";
         }
