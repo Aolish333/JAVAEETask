@@ -16,6 +16,7 @@
 用户名：${uername}<br>
 密码：${password}<br>
 生日：${birthDay}<br>
+
 邮箱：${emailAddress}
 <s:form method="POST" action="login">
     <s:textfield name="userName" label="登陆名(昵称)"></s:textfield>

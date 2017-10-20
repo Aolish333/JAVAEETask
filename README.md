@@ -12,5 +12,8 @@
 9. 20170927LXJ_Struct2Ioc 控制反转 (未完成)
 10. 20170927LXJ_BookStoreOfGlobbing 使用通配符构建书籍 (完成一半)
 11. 20171009LXJ_DataCheck （实验报告）
+12. 20171017LXJ_ConvertOfBuilt_in 内建类型转换
+13. 20171020LXJ_
+
 ###备注
 计算器不在此代码。

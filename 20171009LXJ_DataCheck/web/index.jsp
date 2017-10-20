@@ -1,7 +1,5 @@
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <%@ taglib prefix="sx" uri="/struts-dojo-tags" %>
-
-
 <%--
   Created by IntelliJ IDEA.
   User: hp
@@ -23,9 +21,9 @@
     <s:textfield name="realName" label="真实姓名"></s:textfield>
     <s:textfield name="phoneNumber" label="手机号"></s:textfield>
     <sx:head/>
-        <sx:datetimepicker name="birthDay" label="生日"></sx:datetimepicker>
+    <sx:datetimepicker name="birthDay" label="生日"></sx:datetimepicker>
     <th>
-    <s:include value="checking.jsp"></s:include>
+        <s:include value="checking.jsp"></s:include>
     </th>
     <s:textfield name="userCode" label="验证码"></s:textfield>
     <s:submit value="提交"></s:submit>
