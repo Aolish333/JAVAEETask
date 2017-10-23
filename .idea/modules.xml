@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/20170927LXJ_Struct2Ioc/20170927LXJ_Struct2Ioc.iml" filepath="$PROJECT_DIR$/20170927LXJ_Struct2Ioc/20170927LXJ_Struct2Ioc.iml" />
       <module fileurl="file://$PROJECT_DIR$/20171009LXJ_DataCheck/20171009LXJ_DataCheck1.iml" filepath="$PROJECT_DIR$/20171009LXJ_DataCheck/20171009LXJ_DataCheck1.iml" />
       <module fileurl="file://$PROJECT_DIR$/20171017LXJ_ConvertOfBuilt_in/20171017LXJ_ConvertOfBuilt_in.iml" filepath="$PROJECT_DIR$/20171017LXJ_ConvertOfBuilt_in/20171017LXJ_ConvertOfBuilt_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20171021LXJ_OGNL_Context/20171021LXJ_OGNL_Context.iml" filepath="$PROJECT_DIR$/20171021LXJ_OGNL_Context/20171021LXJ_OGNL_Context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20171023LXJ_UploadFiles/20171023LXJ_UploadFiles.iml" filepath="$PROJECT_DIR$/20171023LXJ_UploadFiles/20171023LXJ_UploadFiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVAEETask.iml" filepath="$PROJECT_DIR$/.idea/JAVAEETask.iml" />
     </modules>
   </component>

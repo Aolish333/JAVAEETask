@@ -4,14 +4,14 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="20171009LXJ_DataCheck1" />
+          <element id="module-output" name="20171009LXJ_DataCheck" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Struts 2 (3)" />
           <element id="library" level="project" name="struts2-dojo-plugin-2.3.31" />
         </element>
       </element>
-      <element id="javaee-facet-resources" facet="20171009LXJ_DataCheck1/web/Web" />
+      <element id="javaee-facet-resources" facet="20171009LXJ_DataCheck/web/Web" />
     </root>
   </artifact>
 </component>
