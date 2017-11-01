@@ -11,6 +11,8 @@
       <root url="jar://$USER_HOME$/Desktop/strutslib/struts2-core-2.5.13.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/struts2-core-2.5.13-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>
