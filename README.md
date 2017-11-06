@@ -15,7 +15,9 @@
 12. 20171017LXJ_ConvertOfBuilt_in 内建类型转换
 13. 20171021LXJ_OGNL_Context 
 14. 20171023LXJ_UploadFiles 上传文件
-15.20171027LXJ_ManyUploadFiles 多文件上传与下载
-
+15. 20171027LXJ_ManyUploadFiles 多文件上传与下载
+16. 20171101_LXJ_Proxy 动态代理模式
+17. Thread 线程的案例
+18. ProcessScheduling 进程的调度
 ###备注
 计算器不在此代码。
