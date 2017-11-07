@@ -1,3 +1,5 @@
+package FilesPackage;
+
 import com.opensymphony.xwork2.ActionSupport;
 
 import java.io.FileInputStream;

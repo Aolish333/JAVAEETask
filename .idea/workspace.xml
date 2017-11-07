@@ -2,27 +2,31 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="20171027LXJ_ManyUploadFiles:war exploded" />
+      <artifact name="20171106_LXJ_InterceptorDefined:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8981902b-e1e7-4acf-94d6-457a9a4fd1fe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/20171106_LXJ_InterceptorDefined_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/DownloadAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/downloadTest.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171101_LXJ_Proxy/src/LeeInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171101_LXJ_Proxy/src/ProxyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/20171106_LXJ_InterceptorDefined.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/LoginInterceptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/struts.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20171027LXJ_ManyUploadFiles_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20171027LXJ_ManyUploadFiles_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20171101_LXJ_Proxy_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20171101_LXJ_Proxy_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/lib/struts2-dojo-plugin-2.3.31.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/struts2_dojo_plugin_2_3_31__2_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/FilesPackage/DownloadAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/FilesPackage/UploadAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/LoginAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/Register-validation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/Register.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/lib/image.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/checking.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/downloadTest.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/test.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/20171106_LXJ_InterceptorDefined_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/20171106_LXJ_InterceptorDefined_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/20171027LXJ_ManyUploadFiles.iml" afterPath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/20171027LXJ_ManyUploadFiles.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/struts.xml" afterPath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/success.jsp" afterPath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/success.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/DownloadAction.java" afterPath="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/DownloadAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/20171106_LXJ_InterceptorDefined.iml" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/20171106_LXJ_InterceptorDefined.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/LoginInterceptor.java" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/LoginInterceptor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/struts.xml" afterPath="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/struts.xml" />
     </list>
     <ignored path="H:/20170831LXJ_SmallDarkRoom/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,11 +52,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/index.jsp">
+      <file leaf-file-name="success.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/success.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="531">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="checking.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/checking.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -61,9 +75,11 @@
       <file leaf-file-name="LoginInterceptor.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/LoginInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-              <folding />
+            <state relative-caret-position="525">
+              <caret line="27" column="63" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,9 +97,9 @@
         <option value="struts" />
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit4 Test Class" />
-        <option value="Jsp File" />
         <option value="struts_2_5" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -114,15 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/20171017LXJ_ConvertOfBuilt_in/web/index.jsp" />
-        <option value="$PROJECT_DIR$/20171017LXJ_ConvertOfBuilt_in/src/Converter/TelConverter.java" />
-        <option value="$PROJECT_DIR$/20171017LXJ_ConvertOfBuilt_in/src/ModelPackage/Info-conversion.properties" />
-        <option value="$PROJECT_DIR$/20171023LXJ_OGNL_Context/web/index.jsp" />
-        <option value="$PROJECT_DIR$/20171021LXJ_OGNL_Context/src/User.java" />
-        <option value="$PROJECT_DIR$/20171021LXJ_OGNL_Context/web/index.jsp" />
-        <option value="$PROJECT_DIR$/20171023LXJ_UploadFiles/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/20171021LXJ_OGNL_Context/src/AddUserAction.java" />
-        <option value="$PROJECT_DIR$/20171021LXJ_OGNL_Context/web/myjsp.jsp" />
         <option value="$PROJECT_DIR$/20171021LXJ_OGNL_Context/src/struts.xml" />
         <option value="$PROJECT_DIR$/new/src/struts.xml" />
         <option value="$PROJECT_DIR$/new/web/index.jsp" />
@@ -159,12 +166,21 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/success.jsp" />
         <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/LoginInterceptor.java" />
         <option value="$PROJECT_DIR$/20171101_LXJ_Proxy/src/LeeInterceptor.java" />
         <option value="$PROJECT_DIR$/20171101_LXJ_Proxy/src/ProxyTest.java" />
         <option value="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/struts.xml" />
-        <option value="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/DownloadAction.java" />
         <option value="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/downloadTest.jsp" />
+        <option value="$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/DownloadAction.java" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/FilesPackage.java" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/downloadTest.jsp" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/test.jsp" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/LoginAction.java" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/struts.xml" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/FilesPackage/UploadAction.java" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/success.jsp" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/Register-validation.xml" />
+        <option value="$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/login.jsp" />
       </list>
     </option>
   </component>
@@ -312,14 +328,21 @@
               <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
               <item name="20171106_LXJ_InterceptorDefined" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FilesPackage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
+              <item name="20171106_LXJ_InterceptorDefined" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="RegisterPackage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVAEETask" type="462c0819:PsiDirectoryNode" />
               <item name="20171106_LXJ_InterceptorDefined" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVAEETask" type="b2602c69:ProjectViewProjectNode" />
@@ -374,25 +397,25 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\JAVAEETask\20171017LXJ_ConvertOfBuilt_in\web" />
-      <recent name="H:\JAVAEETask\20171009LXJ_DataCheck\web" />
-      <recent name="H:\JAVAEETask\20170918LXJ_CheckingCode\web" />
-      <recent name="H:\JAVAEETask\20170912LXJ_Struct2HelloWorld\web" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lib" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\JAVAEETask\20171106_LXJ_InterceptorDefined\web" />
+      <recent name="H:\JAVAEETask\20171106_LXJ_InterceptorDefined\src\FilesPackage" />
+      <recent name="H:\JAVAEETask\20171106_LXJ_InterceptorDefined\src" />
       <recent name="H:\JAVAEETask\20171106_LXJ_InterceptorDefined\web\WEB-INF" />
       <recent name="H:\JAVAEETask\20171101_LXJ_Proxy\src" />
-      <recent name="H:\JAVAEETask\20171027LXJ_ManyUploadFiles\web" />
-      <recent name="H:\JAVAEETask\20171027LXJ_ManyUploadFiles\src" />
-      <recent name="H:\JAVAEETask" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\JAVAEETask\20171017LXJ_ConvertOfBuilt_in\web" />
+      <recent name="H:\JAVAEETask\20171009LXJ_DataCheck\web" />
+      <recent name="H:\JAVAEETask\20170918LXJ_CheckingCode\web" />
+      <recent name="H:\JAVAEETask\20170912LXJ_Struct2HelloWorld\web" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -461,7 +484,7 @@
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
-        <artifact name="20171027LXJ_ManyUploadFiles:war exploded">
+        <artifact name="20171106_LXJ_InterceptorDefined:war exploded">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -559,7 +582,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="20171027LXJ_ManyUploadFiles:war exploded" />
+          <artifact name="20171106_LXJ_InterceptorDefined:war exploded" />
         </option>
       </method>
     </configuration>
@@ -952,150 +975,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="downloadTest.jsp (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.75" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/downloadTest.jsp" />
-      <deployment>
-        <artifact name="20171027LXJ_ManyUploadFiles:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="downloadTest_jsp_(1)_JAVAEETask" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="11489" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="JRebel Debug">
-        <option name="DEBUG_PORT" value="11493" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JRebel Executor">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="20171027LXJ_ManyUploadFiles:war exploded" />
-        </option>
-      </method>
-    </configuration>
-    <configuration name="downloadTest.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 7.0.75" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/downloadTest.jsp" />
-      <deployment>
-        <artifact name="20171027LXJ_ManyUploadFiles:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="downloadTest_jsp_JAVAEETask" />
-      </server-settings>
-      <predefined_log_file id="Tomcat" enabled="true" />
-      <predefined_log_file id="Tomcat Catalina" enabled="true" />
-      <predefined_log_file id="Tomcat Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
-      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method>
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="20171027LXJ_ManyUploadFiles:war exploded" />
-        </option>
-      </method>
-    </configuration>
     <configuration name="project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="project" />
@@ -1110,22 +989,19 @@
       <module name="Thread" />
       <envs />
     </configuration>
-    <list size="7">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7.0.75" />
       <item index="1" class="java.lang.String" itemvalue="Application.project" />
       <item index="2" class="java.lang.String" itemvalue="Application.Test" />
       <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
       <item index="4" class="java.lang.String" itemvalue="JUnit.AlgorithmTest.test" />
-      <item index="5" class="java.lang.String" itemvalue="Tomcat Server.downloadTest.jsp" />
-      <item index="6" class="java.lang.String" itemvalue="Tomcat Server.downloadTest.jsp (1)" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Tomcat Server.downloadTest.jsp" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Test (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.project" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.AlgorithmTest.test" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.project" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AlgorithmTest.test" />
       </list>
     </recent_temporary>
   </component>
@@ -1196,7 +1072,7 @@
       <workItem from="1509782398093" duration="9020000" />
       <workItem from="1509934160741" duration="6065000" />
       <workItem from="1509955535451" duration="14373000" />
-      <workItem from="1510012758050" duration="768000" />
+      <workItem from="1510012758050" duration="8577000" />
     </task>
     <task id="LOCAL-00001" summary="修改项目名称。">
       <created>1504751785732</created>
@@ -1352,7 +1228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509934276554</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="单文件上传成功。错误原因：&lt;a&gt;标签里的传参不能为空。">
+      <created>1510013593598</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1510013593598</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1388,7 +1271,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182954000" />
+    <option name="totallyTimeSpent" value="190763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1401,10 +1284,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41183162" sideWeight="0.5112661" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41183162" sideWeight="0.513412" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287827" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.5064378" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991362" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1422,10 +1304,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41183162" sideWeight="0.48873392" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41183162" sideWeight="0.48658797" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32195678" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21244635" sideWeight="0.46975088" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21244635" sideWeight="0.46975088" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31263497" sideWeight="0.5302491" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -1568,7 +1450,9 @@
     <MESSAGE value="上传文件完成。" />
     <MESSAGE value="解决了多文件不能上传的问题，问题在于属性驱动的upload名称必须一致。" />
     <MESSAGE value="添加一些操作系统的认识。" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加一些操作系统的认识。" />
+    <MESSAGE value="单文件上传成功。错误原因：&lt;a&gt;标签里的传参不能为空。" />
+    <MESSAGE value="完成第三次验收" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成第三次验收" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1607,153 +1491,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ProcessScheduling/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170830LXJ_Calculator/src/CalculateServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/src/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/src/Structure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Thread/src/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="42" column="1" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/DogImp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/PersonDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/PersonDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/MyInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/JDKProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/Transaction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="1" column="27" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/Interceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="5" column="17" lean-forward="false" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/showBook.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="246">
-            <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/struts.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171101_LXJ_Proxy/src/LeeInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/Desktop/strutslib/ognl-3.1.15.jar!/ognl/ObjectArrayPool.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="164">
@@ -1920,14 +1657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/UploadAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
@@ -1943,29 +1672,8 @@
         <state relative-caret-position="5180">
           <caret line="211" column="16" lean-forward="false" selection-start-line="211" selection-start-column="16" selection-end-line="211" selection-end-column="16" />
           <folding>
-            <element signature="e#6535#6536#0" expanded="true" />
-            <element signature="e#6577#6578#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/struts.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/DownloadAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6535#6536#0" expanded="false" />
+            <element signature="e#6577#6578#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1978,19 +1686,213 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/DownloadAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171009LXJ_DataCheck/web/checking.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-344">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171009LXJ_DataCheck/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/lib/image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171009LXJ_DataCheck/src/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="27" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/FilesPackage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/src/struts.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171027LXJ_ManyUploadFiles/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/struts2-core-2.5.13-sources.jar!/com/opensymphony/xwork2/Action.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="70" column="31" lean-forward="false" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/struts2/lib/struts2-dom-api.jar!/resources/dtds/struts-2.5.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="109" column="10" lean-forward="false" selection-start-line="109" selection-start-column="10" selection-end-line="109" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170927LXJ_BookStoreOfGlobbing/web/showBook.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/FilesPackage/DownloadAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/struts2-core-2.5.13-sources.jar!/com/opensymphony/xwork2/ActionInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="154" column="11" lean-forward="false" selection-start-line="154" selection-start-column="11" selection-end-line="154" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="18" />
+        <state relative-caret-position="35">
+          <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/test.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/struts.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="43" column="50" lean-forward="false" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/FilesPackage/UploadAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/Register-validation.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/downloadTest.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/RegisterPackage/LoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/success.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/web/checking.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="36" lean-forward="false" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/20171106_LXJ_InterceptorDefined/src/LoginInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
-          <folding />
+        <state relative-caret-position="525">
+          <caret line="27" column="63" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

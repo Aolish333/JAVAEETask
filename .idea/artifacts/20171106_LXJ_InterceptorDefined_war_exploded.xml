@@ -9,8 +9,10 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Struts 2 (3)" />
+          <element id="library" level="project" name="struts2-dojo-plugin-2.3.31 (2)" />
         </element>
       </element>
+      <element id="library" level="project" name="struts2-dojo-plugin-2.3.31" />
     </root>
   </artifact>
 </component>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE validators PUBLIC
+        "-//Apache Struts//XWork Validator 1.0.2//EN"
+        "http://struts.apache.org/dtds/xwork-validator-1.0.2.dtd">
+<validators>
+
+    <field name="emailAddress">
+        <field-validator type="requiredstring">
+            <message>邮箱不能为空</message>
+        </field-validator>
+        <field-validator type="email">
+            <message>邮箱格式不正确</message>
+        </field-validator>
+    </field>
+    <field name="password">
+        <field-validator type="requiredstring">
+            <message>密码不能为空</message>
+        </field-validator>
+    </field>
+    <field name="confirPassword">
+        <field-validator type="requiredstring">
+            <message>重复密码不能为空</message>
+        </field-validator>
+    </field>
+    <field name="phoneNumber">
+        <field-validator type="requiredstring">
+            <message>手机号不能为空</message>
+        </field-validator>
+    </field>
+    <field name="realName">
+        <field-validator type="requiredstring">
+            <message>真是姓名不能为空</message>
+        </field-validator>
+    </field>
+    <field name="phoneNumber">
+        <field-validator type="regex">
+            <message>^((13[0-9])|(14[5|7])|(15([0-3]|[5-9]))|(18[0,5-9]))\\d{8}$</message>
+        </field-validator>
+    </field>
+    <field name="birthDay">
+        <field-validator type="date">
+            <param name="max">2020-01-01</param>
+            <param name="min">1900-01-01</param>
+            <message>生日必须实在${min}-${max}之间</message>
+        </field-validator>
+    </field>
+</validators>

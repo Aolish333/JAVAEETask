@@ -5,4 +5,50 @@
         "http://struts.apache.org/dtds/struts-2.5.dtd">
 
 <struts>
+
+    <package name="Check" extends="struts-default">
+
+        <!--配置拦截器-->
+        <interceptors>
+            <interceptor name="myInterceptor" class="LoginInterceptor"/>
+        </interceptors>
+        <global-results>
+            <result name="login">login.jsp</result>
+        </global-results>
+        <!--登陆-->
+        <action name="register" class="RegisterPackage.Register" method="register">
+            <result name="success">
+                login.jsp
+            </result>
+            <result name="input">
+                index.jsp
+            </result>
+        </action>
+        <action name="image" class="lib.image">
+            <result name="success" type="stream">
+                <param name="contentType">image/jpeg</param>
+                <param name="inputName">inputStream</param>
+            </result>
+        </action>
+        <action name="login" class="RegisterPackage.LoginAction" method="login">
+            <result name="loginOK" >
+                success.jsp
+            </result>
+        </action>
+        <!--上传与下载-->
+        <action name="upload" class="FilesPackage.UploadAction">
+            <param name="savePath">I:/</param>
+            <result name="saveOk">/downloadTest.jsp
+            </result>
+            <interceptor-ref name="myInterceptor"/>
+            <interceptor-ref name="defaultStack"/>
+        </action>
+        <action name="download" class="FilesPackage.DownloadAction">
+            <result name="success" type="stream">
+                <param name="inputName">targetFile</param>
+                <param name="contentDisposition">attachment;downloadFileName=${downloadFileName}</param>
+            </result>
+        </action>
+
+    </package>
 </struts>
