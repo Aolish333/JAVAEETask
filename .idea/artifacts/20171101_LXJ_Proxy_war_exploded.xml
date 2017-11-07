@@ -9,6 +9,7 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Struts 2 (3)" />
+          <element id="library" level="module" name="JUnit4" module-name="20171101_LXJ_Proxy" />
         </element>
       </element>
     </root>

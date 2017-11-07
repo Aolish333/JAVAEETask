@@ -1,3 +1,4 @@
+<%@ taglib prefix="s" uri="/struts-tags" %>
 <%--
   Created by IntelliJ IDEA.
   User: hp
@@ -8,9 +9,14 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>上传成功</title>
+    <title>上传成功,文件下载</title>
 </head>
 <body>
-上传成功
+<s:iterator value="" var="files">
+    <th>文件</th>
+    <tr>
+        <td><s:property value="#files"/> </td>
+    </tr>
+</s:iterator>
 </body>
 </html>

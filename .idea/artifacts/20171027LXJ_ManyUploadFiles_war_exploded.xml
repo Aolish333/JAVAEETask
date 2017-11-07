@@ -11,6 +11,7 @@
           <element id="library" level="project" name="Struts 2 (3)" />
         </element>
       </element>
+      <element id="library" level="project" name="Struts 2 (3)" />
     </root>
   </artifact>
 </component>
