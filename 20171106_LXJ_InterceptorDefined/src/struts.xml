@@ -49,6 +49,5 @@
                 <param name="contentDisposition">attachment;downloadFileName=${downloadFileName}</param>
             </result>
         </action>
-
     </package>
 </struts>

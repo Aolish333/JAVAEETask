@@ -69,10 +69,10 @@ public class UploadAction extends ActionSupport {
     @Override
     public String execute() throws Exception {
         File[] files = getUpload();
-        String newName = null;
+        String[] newName = new String[files.length];
         for (int i = 0; i < files.length; i++) {
-            newName = UUID.randomUUID() + uploadFileName[i].substring(uploadFileName[i].lastIndexOf("."));
-            FileOutputStream fos = new FileOutputStream(getSavePath() + "\\" + newName);
+            newName[i] = UUID.randomUUID() + uploadFileName[i].substring(uploadFileName[i].lastIndexOf("."));
+            FileOutputStream fos = new FileOutputStream(getSavePath() + "\\" + newName[i]);
             FileInputStream fis = new FileInputStream(files[i]);
             byte[] bytes = new byte[1024];
             int len = 0;

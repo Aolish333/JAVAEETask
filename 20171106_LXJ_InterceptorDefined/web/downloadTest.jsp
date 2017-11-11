@@ -21,7 +21,7 @@
 
 
     <%--<s:iterator value="newName" var="b">--%>
-        <%--<td><a href="download?downloadFileName=<s:property value="#b.BookName">&inputPath=I:/12.jpg">文件下载</a></s:property></td>--%>
+        <%--<td><a href="download?downloadFileName=<s:property value="#b">&inputPath=I:/12.jpg">文件下载</a></s:property></td>--%>
 <%--</s:iterator>--%>
 </body>
 </html>
