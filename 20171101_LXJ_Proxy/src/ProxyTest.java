@@ -8,8 +8,6 @@ import org.junit.Test;
 public class ProxyTest {
     @Test
     public void ProxyTest(){
-        Object dogImp = new DogImp();
-        LeeInterceptor leeInterceptor = new LeeInterceptor(dogImp,);
 
     }
 }

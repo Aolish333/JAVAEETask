@@ -24,7 +24,7 @@
    密码： <label><input value="" type="password" name="password"></label><br>
    用户类型： <label>
     <select name="userType">
-        <option value="管理员">管理员</option>
+        <option value="管理员">管                                理员</option>
         <option value="普通用户">普通用户</option>
     </select>
 </label><br>

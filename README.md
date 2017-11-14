@@ -20,5 +20,10 @@
 17. Thread 线程的案例
 18. ProcessScheduling 进程的调度
 19. BigProject JAVAEE大作业
+20. Banker 银行家算法
+21. PageReplacementOfAlgorithm 页面置换算法
+22. 20171111_LXJ_i18n Struct2国际化
+
+
 ###备注
 计算器不在此代码。
